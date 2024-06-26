@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+}
+
+.three{
+    background-color: chocolate;
+    font-weight: 400;
+}
+
+nav{
+   border: double;
+   display: flex;
+   flex-direction: row;
+   justify-content: space-around;
+   background-color: black;
+   color: azure;
+   height: 50px;
+   padding-top: 20px;
+
+}
+
+a{
+    text-decoration: none;
+    color: beige;
+}
